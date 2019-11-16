@@ -2,7 +2,7 @@
 Predicting rainfall in India using gaussian-process models
 
 
-<img src="jodhpur_rainfall.png"/>
+<img src="jodhpur_rainfall1.png"/>
 Figure: Monthly Rainfall in Jodhpur 1903,1904 predicted using data from 1901, 1902 
 
 
